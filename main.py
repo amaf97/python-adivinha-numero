@@ -1,8 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+
 """
 Jogo de Adivinhação de Números
-Um programa interativo onde o usuário tenta adivinhar um número gerado aleatoriamente pelo computador.
+Um programa interativo onde o jogador tenta adivinhar um número gerado aleatoriamente pelo computador.
 """
 
 import random
