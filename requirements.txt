@@ -1,0 +1,7 @@
+# Este projeto usa apenas módulos da biblioteca padrão do Python
+# Não são necessárias dependências externas
+
+# Módulos utilizados:
+# - random: Para geração de números aleatórios
+# - time: Para pausas e delays
+# - os: Para limpeza de tela e detecção do sistema operacional
