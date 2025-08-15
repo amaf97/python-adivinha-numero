@@ -13,7 +13,7 @@ def limpar_tela():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def exibir_banner():
-    """Exibe o banner do jogo"""
+    """Exibe o banner do jogo 🙌"""
     print("=" * 50)
     print("🎯 JOGO DE ADIVINHAÇÃO DE NÚMEROS 🎯")
     print("=" * 50)
